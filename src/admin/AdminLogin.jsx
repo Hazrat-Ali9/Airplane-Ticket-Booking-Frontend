@@ -4,7 +4,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { authContext } from "../context/authContext";
-
+// admin login
 const AdminLogin = () => {
   const navigate = useNavigate();
   const { dispatch } = useContext(authContext);
