@@ -1,6 +1,6 @@
 import React from "react";
 import { IoIosArrowForward } from "react-icons/io";
-
+// from header
 const FormHeader = ({ currentActiveForm }) => {
   return (
     <div className="my-5 bg-white border-[1px] border-gray-200 rounded-[30px] p-5">
