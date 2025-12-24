@@ -1,5 +1,5 @@
 import React from "react";
-
+// testimonial card
 const TestimonialCard = ({ name, role, image, text }) => {
   return (
     <div className="py-10 cursor-pointer">
