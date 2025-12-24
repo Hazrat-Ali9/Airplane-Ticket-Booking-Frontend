@@ -1,6 +1,6 @@
 import React from "react";
 import QrReader from "react-qr-scanner";
-
+// qr reader
 class QRScan extends React.Component {
   state = {
     delay: 300,
