@@ -2,7 +2,7 @@ import React, { useRef } from "react";
 import HotelCards from "../Card/HotelCards";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
-
+// top places
 import { HiOutlineArrowSmLeft, HiOutlineArrowSmRight } from "react-icons/hi";
 
 import "swiper/css";
