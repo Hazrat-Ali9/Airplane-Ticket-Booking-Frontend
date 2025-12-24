@@ -1,5 +1,5 @@
 import React from "react";
-
+// let get to know
 const LetGetToKnow = () => {
   return (
     <div className="w-full h-fit overflow-hidden rounded-[30px] bg-cover bg-center py-10 px-5 flex justify-center items-center min-h-[600px] bg-no-repeat bg-[url('https://images.unsplash.com/photo-1515916712510-8590717327d3')] bg-[#F4F4F4] relative">
