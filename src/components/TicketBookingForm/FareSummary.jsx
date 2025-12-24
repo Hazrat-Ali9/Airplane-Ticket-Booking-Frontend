@@ -1,5 +1,5 @@
 import React from "react";
-
+// face summary
 const FareSummary = ({ price, numberOfPassengers }) => {
   return (
     <div className="w-full rounded-[30px] border border-gray-300 overflow-hidden">
