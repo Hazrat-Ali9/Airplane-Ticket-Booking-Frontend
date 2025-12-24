@@ -2,7 +2,7 @@ import React, { useState, useContext } from "react";
 import { RxHamburgerMenu } from "react-icons/rx";
 import { Link } from "react-router-dom";
 import { authContext } from "../../context/authContext";
-
+// Navbar
 function Navbar() {
   const isAdmin = true ? localStorage.getItem("isAdmin") === "true" : false;
   console.log(isAdmin);
