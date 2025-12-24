@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { Elements } from "@stripe/react-stripe-js";
 import { loadStripe } from "@stripe/stripe-js";
-
+// Review tickets
 const ReviewTicket = ({
   formData,
   setCurrentActiveForm,
