@@ -1,5 +1,5 @@
 import React from "react";
-
+// search flight card
 const SearchedFlightCards = ({ flight }) => {
   const formatDate = (dateString) => {
     const date = new Date(dateString);
