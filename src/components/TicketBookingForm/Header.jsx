@@ -1,5 +1,5 @@
 import React from "react";
-
+// header
 const Header = ({ currentFlight }) => {
   const formatDate = (dateString) => {
     const date = new Date(dateString);
