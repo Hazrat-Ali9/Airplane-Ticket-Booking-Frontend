@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import { toast } from "react-toastify";
-
+// qr scanner
 import { BACKENDURL } from "../../Config/Config";
 
 const QRScanner = () => {
