@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import AirplaneHead from "../../assets/images/airplaneHead.png";
-
+// seat reservation
 import { toast } from "react-toastify";
 
 const SeatReservation = ({
