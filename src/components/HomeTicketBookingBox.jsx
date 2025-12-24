@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-
+// home ticket booked
 const HomeTicketBookingBox = () => {
   const navigate = useNavigate();
 
