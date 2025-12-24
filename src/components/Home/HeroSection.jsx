@@ -1,6 +1,6 @@
 import React from "react";
 import HeroSectionCard from "./HeroSectionCard";
-
+// hero section
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
 import "swiper/css";
