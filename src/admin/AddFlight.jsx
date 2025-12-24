@@ -3,7 +3,7 @@ import axios from "axios";
 import { BACKENDURL } from "../Config/Config";
 import { toast } from "react-toastify";
 import { useNavigate } from "react-router-dom";
-
+// add flight
 const AddFlight = () => {
   const navigate = useNavigate();
   const [airlineData, setAirlineData] = useState([]);
