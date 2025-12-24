@@ -3,7 +3,7 @@ import uploadImageToCloudinary from "../utils/uploadImageToCloudinary";
 import axios from "axios";
 import { toast } from "react-toastify";
 import { useNavigate } from "react-router-dom";
-
+// add airline
 const AddAirline = () => {
   const navigate = useNavigate();
   const [image, setImage] = useState(null);
