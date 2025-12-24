@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { countries } from "../../assets/data/Countries";
 import PassengerDataForm from "./PassengerDataForm";
 import { toast } from "react-toastify";
-
+// traveller
 const TravellerDetail = ({
   setCurrentActiveForm,
   numberOfPassengers,
