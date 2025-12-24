@@ -2,7 +2,7 @@ import React from "react";
 import TestimonialCard from "../Card/TestimonialCard";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
-
+// testimonial 
 import "swiper/css";
 
 const Testimonials = () => {
