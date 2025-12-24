@@ -1,5 +1,5 @@
 import React from "react";
-
+// value we provide
 import { GoPaperAirplane } from "react-icons/go";
 import { IoWalletOutline } from "react-icons/io5";
 import { MdOutlinePeople } from "react-icons/md";
