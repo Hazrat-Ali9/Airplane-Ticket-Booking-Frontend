@@ -1,5 +1,5 @@
 import React from "react";
-
+// hero section card
 const HeroSectionCard = (props) => {
   return (
     <div className="cursor-pointer">
